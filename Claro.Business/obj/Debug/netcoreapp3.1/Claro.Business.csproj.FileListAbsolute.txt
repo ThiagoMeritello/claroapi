@@ -1,0 +1,8 @@
+D:\Projetos\Claro\Claro.Business\bin\Debug\netcoreapp3.1\Claro.Business.deps.json
+D:\Projetos\Claro\Claro.Business\bin\Debug\netcoreapp3.1\Claro.Business.dll
+D:\Projetos\Claro\Claro.Business\bin\Debug\netcoreapp3.1\Claro.Business.pdb
+D:\Projetos\Claro\Claro.Business\obj\Debug\netcoreapp3.1\Claro.Business.AssemblyInfoInputs.cache
+D:\Projetos\Claro\Claro.Business\obj\Debug\netcoreapp3.1\Claro.Business.AssemblyInfo.cs
+D:\Projetos\Claro\Claro.Business\obj\Debug\netcoreapp3.1\Claro.Business.csproj.CoreCompileInputs.cache
+D:\Projetos\Claro\Claro.Business\obj\Debug\netcoreapp3.1\Claro.Business.dll
+D:\Projetos\Claro\Claro.Business\obj\Debug\netcoreapp3.1\Claro.Business.pdb

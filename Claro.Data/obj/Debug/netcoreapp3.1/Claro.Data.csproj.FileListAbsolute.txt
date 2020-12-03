@@ -1,0 +1,12 @@
+D:\Projetos\Claro\Claro.Data\bin\Debug\netcoreapp3.1\Claro.Data.deps.json
+D:\Projetos\Claro\Claro.Data\bin\Debug\netcoreapp3.1\Claro.Data.dll
+D:\Projetos\Claro\Claro.Data\bin\Debug\netcoreapp3.1\Claro.Data.pdb
+D:\Projetos\Claro\Claro.Data\bin\Debug\netcoreapp3.1\Claro.Business.dll
+D:\Projetos\Claro\Claro.Data\bin\Debug\netcoreapp3.1\Claro.Business.pdb
+D:\Projetos\Claro\Claro.Data\obj\Debug\netcoreapp3.1\Claro.Data.csprojAssemblyReference.cache
+D:\Projetos\Claro\Claro.Data\obj\Debug\netcoreapp3.1\Claro.Data.AssemblyInfoInputs.cache
+D:\Projetos\Claro\Claro.Data\obj\Debug\netcoreapp3.1\Claro.Data.AssemblyInfo.cs
+D:\Projetos\Claro\Claro.Data\obj\Debug\netcoreapp3.1\Claro.Data.csproj.CoreCompileInputs.cache
+D:\Projetos\Claro\Claro.Data\obj\Debug\netcoreapp3.1\Claro.Data.csproj.CopyComplete
+D:\Projetos\Claro\Claro.Data\obj\Debug\netcoreapp3.1\Claro.Data.dll
+D:\Projetos\Claro\Claro.Data\obj\Debug\netcoreapp3.1\Claro.Data.pdb
